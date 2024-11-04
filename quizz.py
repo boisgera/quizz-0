@@ -76,7 +76,7 @@ def __(mo, text_area):
     mo.md(f"""
     ## Question 4
 
-    Type a multiline text (then CTRL+ENTER to save the change)
+    Type a multiline text:
     {text_area}
     """)
     return
