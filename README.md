@@ -1,6 +1,8 @@
 # Quizz 0
 
-Install [pixi], then in the project directory, type the command
+First, install [pixi].
+
+Then, in the project directory, type the command
 
     pixi run start
 
