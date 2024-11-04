@@ -1,14 +1,13 @@
 [project]
 authors = ["Sébastien Boisgérault <Sebastien.Boisgerault@gmail.com>"]
 channels = ["conda-forge"]
-description = "Add a short description here"
+description = "Quizz 0"
 name = "Quizz 0"
 platforms = ["linux-64"]
 version = "0.1.0"
 
 [tasks]
 dev = "marimo edit quizz.py"
-start = "marimo run quizz.py"
 
 [dependencies]
 marimo = ">=0.9.14,<0.10"
